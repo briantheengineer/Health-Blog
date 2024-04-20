@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/briantheengineer/E-commerce/static/css/main.60eb69ca.css",
+    "main.js": "/briantheengineer/E-commerce/static/js/main.6e67cdb2.js",
+    "static/js/453.53abc377.chunk.js": "/briantheengineer/E-commerce/static/js/453.53abc377.chunk.js",
+    "static/media/look1.png": "/briantheengineer/E-commerce/static/media/look1.a9ff59b1efc3355d865d.png",
+    "index.html": "/briantheengineer/E-commerce/index.html",
+    "main.60eb69ca.css.map": "/briantheengineer/E-commerce/static/css/main.60eb69ca.css.map",
+    "main.6e67cdb2.js.map": "/briantheengineer/E-commerce/static/js/main.6e67cdb2.js.map",
+    "453.53abc377.chunk.js.map": "/briantheengineer/E-commerce/static/js/453.53abc377.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60eb69ca.css",
+    "static/js/main.6e67cdb2.js"
+  ]
+}
